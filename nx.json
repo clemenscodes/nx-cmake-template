@@ -1,0 +1,16 @@
+{
+    "tasksRunnerOptions": {
+        "default": {
+            "runner": "nx/tasks-runners/default",
+            "options": {
+                "cacheableOperations": []
+            }
+        }
+    },
+    "installation": {
+        "version": "latest",
+        "plugins": {
+            "nx-cmake": "latest"
+        }
+    }
+}
